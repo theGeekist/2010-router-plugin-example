@@ -56,3 +56,14 @@ Follow these steps to use this project as a starting point for your own plugins:
 ## Historical Context
 
 This router was originally built for WordPress 3.0, released in June 2010, which introduced custom post types and menus. It was designed to leverage the new menu APIs and provide a lightweight solution for structured plugin development.
+
+
+<br>
+<br>
+<p align="center">
+  <sub>
+    Proudly brought to you by 
+    <a href="https://github.com/theGeekist" target="_blank">@theGeekist</a> and <a href="https://github.com/pipewrk" target="_blank">@pipewrk</a>
+  </sub>
+</p>
+
